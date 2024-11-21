@@ -2,6 +2,8 @@
 
 A simple React-based application that allows users to calculate and display a date based on a counter that can be incremented or decremented. The app uses `useState` for managing the step and count values, dynamically updates the displayed date, and displays the result with an intuitive user interface. It provides an easy-to-understand and interactive way to calculate future or past dates.
 
+check it out live at : https://date-counter-app.vercel.app/
+
 ## Features and Best Practices
 
 - **State Management with `useState`**:  
